@@ -1,5 +1,5 @@
 <h1>
-relative-mouse <a href="https://npmjs.org/package/relative-mouse"><img src="https://img.shields.io/badge/npm-v1.0.0-F00.svg?colorA=000"/></a> <a href="src"><img src="https://img.shields.io/badge/loc-13-FFF.svg?colorA=000"/></a> <a href="https://cdn.jsdelivr.net/npm/relative-mouse@1.0.0/dist/relative-mouse.min.js"><img src="https://img.shields.io/badge/brotli-232b-333.svg?colorA=000"/></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-F0B.svg?colorA=000"/></a>
+relative-mouse <a href="https://npmjs.org/package/relative-mouse"><img src="https://img.shields.io/badge/npm-v1.0.1-F00.svg?colorA=000"/></a> <a href="src"><img src="https://img.shields.io/badge/loc-13-FFF.svg?colorA=000"/></a> <a href="https://cdn.jsdelivr.net/npm/relative-mouse@1.0.1/dist/relative-mouse.min.js"><img src="https://img.shields.io/badge/brotli-232b-333.svg?colorA=000"/></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-F0B.svg?colorA=000"/></a>
 </h1>
 
 <p></p>
